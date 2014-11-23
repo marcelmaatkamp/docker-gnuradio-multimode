@@ -1,4 +1,4 @@
-FROM marcelmaatkamp/gnuradio:latest
+FROM marcelmaatkamp/gnuradio
 
 MAINTAINER m.maatkamp@gmail.com version: 0.1
 
