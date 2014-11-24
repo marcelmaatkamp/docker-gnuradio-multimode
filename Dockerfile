@@ -1,4 +1,4 @@
-FROM marcelmaatkamp/docker-gnuradio
+FROM marcelmaatkamp/gnuradio:3.7.1
 
 MAINTAINER m.maatkamp@gmail.com version: 0.1
 
