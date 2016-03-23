@@ -8,5 +8,5 @@ MAINTAINER m.maatkamp@gmail.com version: 0.1
 ADD gnuradio-multimode /gnuradio/gnuradio-multimode
 RUN cd /gnuradio/gnuradio-multimode && make install
 
-WORKDIR         /
+WORKDIR         /gnuradio/gnuradio-multimode
 ENTRYPOINT      ["/bin/bash"]
